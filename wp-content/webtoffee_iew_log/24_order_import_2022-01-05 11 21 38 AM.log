@@ -1,0 +1,5 @@
+01-05-2022 @ 11:21:38 - ---[ New import started at 2022-01-05 11:21:38 ] PHP Memory: 1 GB, WP Memory: 1 GB
+01-05-2022 @ 11:21:38 - Preparing for import.
+01-05-2022 @ 11:21:38 - Row :1 - Parsing item.
+01-05-2022 @ 11:21:38 - Row :1 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 37324
+01-05-2022 @ 11:21:38 - ---[ Import ended at 2022-01-05 11:21:38]---

@@ -1,0 +1,79 @@
+Plugin Name: WP Smush Pro
+Author: WPMU DEV
+Tested up to: 6.0
+
+Change Log:
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+= 3.9.11 ( 2022-05-23 ) =
+
+- Enhance: Code quality
+- Fix: Minor code quality issues
+- Fix: Update internal libraries
+
+= 3.9.10 ( 2022-05-17 ) =
+
+- New: Gravity Forms integration
+- New: `smush_background_images_regex` and `smush_images_from_content_regex` filters to adjust regex rules for finding images on the page
+- New: `smush_cdn_before_process_background_src` filter to adjust background image src
+- New: Add additional parameters to `smush_skip_adding_srcset` filter to allow disabling auto-resize for selected images
+- Enhance: Compatibility with WPBakery page builder
+- Enhance: Compatibility with Offload Media plugin
+- Enhance: Handling images via REST API endpoints
+- Fix: Directory Smush savings cached and not updated
+- Fix: "What's new" modal not hiding if white label is enabled
+- Fix: Missing primary key on smush_dir_images table
+- Fix: Scaled images not being resized on resize settings change
+- Fix: Bulk Smush will now show all errors, instead of just the first 5
+- Fix: Animated GIF images not being excluded from bulk Smush
+- Fix: Only allow network wide activation of Smush
+
+= 3.9.9 ( 2022-05-03 ) =
+
+- Enhance: Code quality
+- Enhance: Handling user input
+- Enhance: Update React modules to latest versions
+- Fix: XSS vulnerability when uploading modified configs
+
+= 3.9.8 ( 2022-03-22 ) =
+
+- New: Add expiry header to Nginx template for WebP
+- New: Add `wp_smush_webp_dir` filter to customize WebP directory
+- Fix: XSS vulnerability
+- Fix: Disable submit button on Integrations page when no integrations available
+- Fix: CDN bandwidth limit status message
+- Fix: Text alignment issue on Bulk Smush page
+- Fix: Highlighting selected lazy load spinner with color accessibility
+- Fix: Compatibility issue with WP Offload Media 2.6.0
+- Fix: Undefined offset notice with certain WooCommerce themes
+
+= 3.9.7 ( 2022-03-01 ) =
+
+- Fix: Local WebP is not activated on applying config after reset settings
+- Fix: Missing WebP file for WP scaled images
+- Fix: Fatal error on PHP 5.6
+- Fix: Compatibility issue with WP Offload Media
+
+= 3.9.6 ( 2022-02-09 ) =
+
+- Enhance: Do not close the Directory Smush modal in case of error
+- Enhance: Tooltips in CDN module
+- Fix: Compatibility issue with PHP 8.1
+- Fix: "Choose Directory" button loading state in case of error
+- Fix: PNG to JPG conversion leaves behind some thumbnails after deleting the image
+- Fix: PNG images that need resizing don't get converted to JPG
+- Fix: Issue creating the WebP test files
+- Fix: Incorrect unique file names during PNG to JPG conversion
+- Fix: Duplicate thumbnails while converting PNG to JPG
+- Fix: Auto refresh API status when updating to Pro version
+
+= 3.9.5 ( 2022-01-25 ) =
+
+- Fix: Translation strings
+- Fix: Remove upsells
+- Enhance: Update admin menu icon
+
+
+
+515417-1653282403-au

@@ -1,0 +1,21 @@
+{
+  "name": "incsub/wpmu-dev-seo",
+  "require-dev": {
+    "phpunit/phpunit": "^5.5",
+    "yoast/phpunit-polyfills": "^1.0"
+  },
+  "authors": [
+    {
+      "name": "Hassan Akhtar",
+      "email": "hassan@incsub.com"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "vendor_prefixed/"
+    ]
+  },
+  "require": {
+    "vanderlee/syllable": "^1.5"
+  }
+}

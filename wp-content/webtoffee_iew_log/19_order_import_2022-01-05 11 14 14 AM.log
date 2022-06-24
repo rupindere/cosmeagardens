@@ -1,0 +1,21 @@
+01-05-2022 @ 11:14:14 - ---[ New import started at 2022-01-05 11:14:14 ] PHP Memory: 1 GB, WP Memory: 1 GB
+01-05-2022 @ 11:14:14 - Preparing for import.
+01-05-2022 @ 11:14:14 - Row :1 - Parsing item.
+01-05-2022 @ 11:14:14 - Row :1 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 37324
+01-05-2022 @ 11:14:14 - Row :2 - Parsing item.
+01-05-2022 @ 11:14:14 - Row :2 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 37372
+01-05-2022 @ 11:14:14 - Row :3 - Parsing item.
+01-05-2022 @ 11:14:14 - Row :3 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 37384
+01-05-2022 @ 11:14:14 - Row :4 - Parsing item.
+01-05-2022 @ 11:14:14 - Row :4 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 37392
+01-05-2022 @ 11:14:14 - Row :5 - Parsing item.
+01-05-2022 @ 11:14:14 - Row :5 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 37461
+01-05-2022 @ 11:14:14 - Row :6 - Parsing item.
+01-05-2022 @ 11:14:14 - Row :6 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 37464
+01-05-2022 @ 11:14:14 - Row :7 - Parsing item.
+01-05-2022 @ 11:14:14 - Row :7 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 37470
+01-05-2022 @ 11:14:14 - Row :8 - Parsing item.
+01-05-2022 @ 11:14:14 - Row :8 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 37471
+01-05-2022 @ 11:14:14 - Row :9 - Parsing item.
+01-05-2022 @ 11:14:14 - Row :9 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 37486
+01-05-2022 @ 11:14:14 - ---[ Import ended at 2022-01-05 11:14:14]---
