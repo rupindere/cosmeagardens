@@ -1,0 +1,57 @@
+<zipcodepricedata><entry>
+
+                <date>SAT APR 02</date>
+
+                <price>3.0</price>
+
+                <disabled>Y</disabled>
+
+            </entry><entry>
+
+                <date>SUN APR 03</date>
+
+                <price>1.5</price>
+
+                <disabled>Y</disabled>
+
+            </entry><entry>
+
+                <date>SAT MAR 05</date>
+
+                <price>10</price>
+
+                <disabled>Y</disabled>
+
+            </entry><entry>
+
+                <date>THU MAR 10</date>
+
+                <price>10</price>
+
+                <disabled>Y</disabled>
+
+            </entry><entry>
+
+                <date>MON MAY 23</date>
+
+                <price>10</price>
+
+                <disabled>N</disabled>
+
+            </entry><entry>
+
+                <date>FRI JAN 21</date>
+
+                <price>2.5</price>
+
+                <disabled>N</disabled>
+
+            </entry><entry>
+
+                <date>SAT MAY 28</date>
+
+                <price>20</price>
+
+                <disabled>N</disabled>
+
+            </entry></zipcodepricedata>

@@ -1,0 +1,29 @@
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84 http://www.google.com/schemas/sitemap/0.84/sitemap.xsd">-<zipcodepricedata>-<entry>
+            <date> SAT FEB 5</date>
+            <price>3.0</price>
+            <disabled>N</disabled>
+        </entry>-<entry>
+            <date> SAT FEB 5</date>
+            <price>4.0</price>
+            <disabled>N</disabled>
+        </entry>-<entry>
+            <date> SAT FEB 5</date>
+            <price>5.0</price>
+            <disabled>N</disabled>
+        </entry>-<entry>
+            <date> SAT FEB 5</date>
+            <price>60</price>
+            <disabled>N</disabled>
+        </entry>-<entry>
+            <date> SAT FEB 5</date>
+            <price>70</price>
+            <disabled>Y</disabled>
+        </entry>-<entry>
+            <date>hdghd</date>
+            <price>dfgdfg</price>
+            <disabled>N</disabled>
+        </entry>-<entry>
+            <date></date>
+            <price></price>
+            <disabled>N</disabled>
+        </entry></zipcodepricedata></urlset>

@@ -1,0 +1,897 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"Featured\" Label Background Color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"Featured\" Label Color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"Featured\" label background color in results popup"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"Featured\" label text color in results popup"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "\"No Results\" text"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"Out of stock\" Label Background Color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"Out of stock\" Label Color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"Out of stock\" label background color in results popup"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"Out of stock\" label text color in results popup"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"Sale\" Label Background Color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"Sale\" Label Color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"Sale\" label background color in results popup"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"Sale\" label text color in results popup"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "\"View all\" Link Text"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"View all\" Link Text Background"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"View all\" Link Text Color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"View all\" link text background in results popup"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "\"View all\" link text color in results popup"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "\"alpha\" AND \"beta\""
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "\"alpha\" OR \"beta\""
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Accent Words on Search Page"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Accent searchable words on search page. Works only if \"Default Output on Search Page\" option is disabled."
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-page-widgets.php:107
+msgid "Add New"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-stopwords.php:5
+msgid "Add a list of words that should be skipped from the search request."
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-spellcheck.php:5
+msgid "Add synonyms for the words that, for your opinion, can be entered with spell errors. Example Orange => Ornge"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Allowed Product Categories"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "Background Color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Below image"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Below price and SKU"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Below title"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "Border Color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+msgid "Border Width, px"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Character Amount"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Content"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-spellcheck.php:5
+msgid "Correct"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Custom Fields slug separated by comma. Searching will be provided in custom fields values"
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-page-widgets.php:76
+msgid "Custom Widgets"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Default Output on Search Page"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Disable altering search results by Smart Search plugin on the search results page.<br>By default the plugin modified search results according to selected options"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-page-widgets.php:90
+msgid "Disabled"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Disallowed Product Categories"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display \"Add to Cart\" Button"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display \"Add to Cart\" Button for product"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display \"Featured\" Label"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display \"Featured\" label for product"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display \"Out of stock\" Label"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display \"Out of stock\" label if product is not in stock"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display \"Sale\" Label"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display \"Sale\" label for product"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display Excerpt"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display Image"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display Price"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display Product Categories"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display Rating"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display SKU"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display excerpt in results output"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display featured image in results output"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display featured image of the parent variable product if variation does not have a thumbnail"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Display posts with products using theme search results layout.<br>Usefull if you want to display posts with products.<br>By default if 'Search in Products' option selected only products displays using WooCommerce search results layout"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display product SKU"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display product categories"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display product price"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Display product rating"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+msgid "Display search field with rounded border"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Display total number of found posts in the \"View all\" link<br>This is advanced option, use it only if you know what you do.<br>It may affect search performance"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/inc/custom/class-ysm-search-widget.php:1
+msgid "Displays search box"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Do not search in chosen product categories"
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-page-widgets.php:24
+msgid "Edit Widget"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Enable Smart Search"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Enable Transient"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Enable multiple word search."
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Enable search through \"%s\""
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:12
+msgid "Enable search through \"%s\" post type"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Enable search through Variable Product Variations"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-page-widgets.php:90
+msgid "Enabled"
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-page-form.php:29
+msgid "Enter name"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Excerpt"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Excerpt Position"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Excerpt Symbols Amount"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "Excerpt Text Color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Excerpt position in results popup"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "Excerpt text color in results popup"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Exclude \"Out of stock\""
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Exclude \"Out of stock\" products from results"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Extend Avada search bar with the Smart Search features."
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-page-widgets.php:36
+msgid "Extend Default Widgets"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Extend Default search bar with the Smart Search features."
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Extend Product search bar with the Smart Search features."
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-tab-fields.php:78
+msgid "Fields"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-page-form.php:1
+msgid "General"
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-page-widgets.php:43
+#: smart-ajax-product-search/templates/admin-page-widgets.php:83
+msgid "ID"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+msgid "Icon Background"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+msgid "Icon Color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "If not empty displays a link at the bottom of results popup"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "If not empty displays when no results returned"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Image Size"
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-tab-styling.php:7
+msgid "Input Field"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-page-form.php:1
+msgid "Items to Search through"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-page-form.php:1
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+msgid "Loader"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Maximum number of results"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Maximum number of symbols for description in results"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Minimum number of character"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Multiple Word Search"
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-page-widgets.php:44
+#: smart-ajax-product-search/templates/admin-page-widgets.php:84
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Number of Found Posts in the \"View all\" Link"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Only parent variable product"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Only variations"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Parent variable product with variations"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-page-about.php:1
+msgid "Patch %s applied"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Placeholder"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Placeholder in search input"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-page-about.php:1
+msgid "Please activate the plugin."
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Popup Max Height"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "Popup background color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "Popup border color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Popup max height (px). Default is 400px"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Post Category"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Post Tag"
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-tab-fields.php:10
+msgid "Post Types"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "Price Color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "Price text color in results popup"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Product Category"
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-tab-styling.php:130
+msgid "Product Elements"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Product SKU"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Product Tag"
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-tab-fields.php:67
+msgid "Product Variations"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Restrict product searching by chosen product categories"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Results Listing Amount"
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-tab-styling.php:84
+msgid "Results Popup Elements"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+msgid "Rounded border"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "SKU Search Top Priority"
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-page-form.php:19
+#: smart-ajax-product-search/templates/admin-page-form.php:73
+msgid "Save"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Save query results in a transient"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Search Page Layout with Posts"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Search by SKU first if this option is checked and if request is numeric"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+msgid "Search field background color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+msgid "Search field border color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+msgid "Search field border width in pixels"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+msgid "Search field icon background"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+msgid "Search field icon color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+msgid "Search field text color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:12
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Search in %s"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Search in Custom Fields"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Search in Custom Post Types"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Search in Custom Taxonomies"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Search in Variations"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Search results featured image size (px)"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Searching will be provided in selected custom post types"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Searching will be provided in selected custom taxonomies"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Select Limit for DB Query"
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/inc/custom/class-ysm-search-widget.php:51
+msgid "Select Widget:"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+msgid "Select loader"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Select visibility of variable products and variations"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Set number of posts that should be retrieved from the database. This is advanced option, use it only if you know what you do."
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-page-form.php:44
+msgid "Settings"
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-page-widgets.php:85
+msgid "Shortcode"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Skip Punctuation"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Skip punctuation in the search string"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/inc/custom/class-ysm-search-widget.php:1
+msgid "Smart Search"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-page-form.php:1
+msgid "Spell Correction"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-page-form.php:1
+#: smart-ajax-product-search/templates/admin-tab-stopwords.php:5
+msgid "Stop Words"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-page-form.php:1
+msgid "Styling"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-spellcheck.php:5
+msgid "Synonyms"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:9
+msgid "Text Color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-fields.php:80
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "Title Text Color"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-styling.php:132
+msgid "Title text color in results popup"
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/inc/custom/class-ysm-search-widget.php:47
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/templates/admin-page-form.php:40
+msgid "Toggle panel: Settings"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-layout.php:5
+msgid "Variation Image Fallback"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-general.php:4
+msgid "Visibility of Variable Products"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-tab-spellcheck.php:5
+msgid "Wrong"
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/templates/admin-page-about.php:1
+msgid "Your plugin have been activated."
+msgstr ""
+
+#. Text in function
+#: smart-ajax-product-search/inc/custom/class-ysm-widget-manager.php:1
+msgid "Your settings have been saved."
+msgstr ""
+
+#. Text in echo
+#: smart-ajax-product-search/inc/custom/class-ysm-widget-manager.php:360
+#: smart-ajax-product-search/inc/custom/class-ysm-widget-manager.php:361
+msgid "placeholder"
+msgstr ""

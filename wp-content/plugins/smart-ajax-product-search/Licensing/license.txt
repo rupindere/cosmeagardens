@@ -1,0 +1,6 @@
+Copyright 2018 YummyWP
+
+All plugin files (PHP, JS, CSS, HTML, images) are licensed under the General Public License 2.0 (GPL).
+Some files may be licensed under alternative open source licenses such as MIT, BSD or OFL and
+you can refer to individual files for licensing information.
+You will find a copy of the GPL in the same directory as this text file.
